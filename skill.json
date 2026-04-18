@@ -30,18 +30,23 @@
     },
     "rooms": {
       "total": 8,
-      "types": ["亲子房（为主）"],
+      "types": ["亲子房", "大床房", "双床房"],
       "price_range": "300-1000元/晚"
     },
     "booking": {
       "platforms": ["携程", "美团民宿"],
       "search_keyword": "公子归来"
     },
+    "checkin_checkout": {
+      "checkin": "12:00",
+      "checkout": "12:00"
+    },
     "facilities": {
       "parking": { "available": true, "free": true },
       "breakfast": { "available": true, "free": true },
       "restaurant_kitchen": true,
-      "laundry": true
+      "laundry": true,
+      "wifi": { "password": "88888888", "ssid_note": "名称请询问前台" }
     },
     "full_name": "庆馀堂公子归来",
     "area": "占地约五亩",
